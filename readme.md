@@ -1,4 +1,4 @@
-…or create a new repository on the command line
+## Créer un nouveau dépôt en ligne de commande
 
 ```
 echo "# depart-git" >> README.md
@@ -10,7 +10,7 @@ git remote add origin https://github.com/formeka/depart-git.git
 git push -u origin main
 ```
 
-…or push an existing repository from the command line
+## Envoyer(push) un dépôt existant en ligne de commande
 
 ```
 git init
