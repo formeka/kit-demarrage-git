@@ -19,12 +19,12 @@ Un dépôt **git** doit contenir 3 fichiers :
 ## Créer un nouveau dépôt en ligne de commande
 
 ```
-echo "# depart-git" >> README.md
+touch README.md LICENCE.md .gitignore
 git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/formeka/depart-git.git
+git add *
+git commit -m "Debut du prjet initialisation"
+git branch -M main (renommer branche principale si besoin)
+git remote add origin https://github.com/user/nom-depot.git
 git push -u origin main
 ```
 
@@ -32,7 +32,7 @@ git push -u origin main
 
 ```
 git init
-git remote add origin https://github.com/formeka/depart-git.git
-git branch -M main
+git remote add origin https://github.com/user/nom-depot.git
+git branch -M main (renommer branche principale si besoin)
 git push -u origin main
 ```
