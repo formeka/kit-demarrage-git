@@ -16,6 +16,11 @@ Un dépôt **git** doit contenir 3 fichiers :
     - [https://gitignore.io](https://gitignore.io)
     - [https://github.com/github/gitignore](https://github.com/github/gitignore)
 
+- fichier **LICENCE.md** qui permet d'avoir un contrat avec les utilisateurs de votre projet
+   - [Licence logiciel](https://fr.wikipedia.org/wiki/Licence_de_logiciel)
+   - [Licence juridique](https://fr.wikipedia.org/wiki/Licence_(juridique))
+   - [Pourquoi vous devriez vous intéresser aux licences de vos logiciels ?](https://fr.linkedin.com/pulse/pourquoi-vous-devriez-int%C3%A9resser-aux-licences-de-vos-logiciels-madet?trk=pulse-article_more-articles_related-content-card)
+
 ## Créer un nouveau dépôt en ligne de commande
 
 ```
