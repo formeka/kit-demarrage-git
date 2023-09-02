@@ -45,8 +45,8 @@ git push -u origin main
 
 ## Travail avec git au quotidien
 
-`git pull` Importer le travail du dépôt distant
-`git status` Vérifier l'état de votre dépôt
-`git add fichier` ou `git add *` Ajouter les fichiers modifiés pour être prêt à être suivis
-`git commit` ou `git commit -m "Sujet du commit"` Enregistrer vos modifications 
-`git push` Envoyer votre travail sur le dépôt distant
+- `git pull` Importer le travail du dépôt distant
+- `git status` Vérifier l'état de votre dépôt
+- `git add fichier` ou `git add *` Ajouter les fichiers modifiés pour être prêt à être suivis
+- `git commit` ou `git commit -m "Sujet du commit"` Enregistrer vos modifications 
+- `git push` Envoyer votre travail sur le dépôt distant
