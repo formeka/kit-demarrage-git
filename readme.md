@@ -20,6 +20,7 @@ Un dépôt **git** doit contenir 3 fichiers :
    - [Licence logiciel](https://fr.wikipedia.org/wiki/Licence_de_logiciel)
    - [Licence juridique](https://fr.wikipedia.org/wiki/Licence_(juridique))
    - [Pourquoi vous devriez vous intéresser aux licences de vos logiciels ?](https://fr.linkedin.com/pulse/pourquoi-vous-devriez-int%C3%A9resser-aux-licences-de-vos-logiciels-madet?trk=pulse-article_more-articles_related-content-card)
+   - [Licence Creative Commons](https://fr.wikipedia.org/wiki/Licence_Creative_Commons)
 
 ## Créer un nouveau dépôt en ligne de commande
 
