@@ -56,3 +56,9 @@ git push -u origin main
 - [Comparing Git Workflows: What You Should Know ](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Workflow Gitflow](https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Développement basé sur le tronc ](https://www.atlassian.com/fr/continuous-delivery/continuous-integration/trunk-based-development)
+
+## Articles relatifs à git
+
+- [The Best Git Tutorials](https://www.freecodecamp.org/news/best-git-tutorial/)
+- [Git Best Practices – How to Write Meaningful Commits, Effective Pull Requests, and Code Reviews](https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/)
+- [Git Best Practices – A Guide to Version Control for Beginners](https://www.freecodecamp.org/news/how-to-use-git-best-practices-for-beginners/)
