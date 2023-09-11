@@ -56,6 +56,7 @@ git push -u origin main
 - [Comparing Git Workflows: What You Should Know ](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [Workflow Gitflow](https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Développement basé sur le tronc ](https://www.atlassian.com/fr/continuous-delivery/continuous-integration/trunk-based-development)
+- [About collaborative development models](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models)
 
 ## Articles relatifs à git
 
