@@ -50,3 +50,9 @@ git push -u origin main
 - `git add fichier(s)` ou `git add *` Ajouter les fichiers modifiés pour être prêt à être suivis
 - `git commit` ou `git commit -m "Sujet du commit"` Enregistrer vos modifications 
 - `git push` Envoyer votre travail sur le dépôt distant
+
+## Méthode de travail avec git
+
+- [Comparing Git Workflows: What You Should Know ](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [Workflow Gitflow](https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Développement basé sur le tronc ](https://www.atlassian.com/fr/continuous-delivery/continuous-integration/trunk-based-development)
