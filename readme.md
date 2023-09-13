@@ -2,6 +2,9 @@
 
 - [Manual](https://git-scm.com/doc)
 - [Livre Pro-Git](https://git-scm.com/book)
+- [Git Gitlab doc](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
+- [Git Github doc](https://github.com/git-guides)
+- [Git Bitbucket doc](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
 # Démarrage
 
@@ -50,6 +53,12 @@ git push -u origin main
 - `git add fichier(s)` ou `git add *` Ajouter les fichiers modifiés pour être prêt à être suivis
 - `git commit` ou `git commit -m "Sujet du commit"` Enregistrer vos modifications 
 - `git push` Envoyer votre travail sur le dépôt distant
+
+## Commits
+
+- [Conventional commits format](https://www.conventionalcommits.org)
+- [Git : pourquoi écrire des commits atomiques ?](https://www.codeheroes.fr/2021/10/25/git-pourquoi-ecrire-des-commits-atomiques/)
+- [Qu'est ce qu'un bon commit ?](https://jbuget.fr/posts/qu-est-ce-qu-un-bon-commit-git/)
 
 ## Méthode de travail avec git
 
