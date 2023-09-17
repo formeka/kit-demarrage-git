@@ -1,5 +1,7 @@
 # Documentation git
 
+Git est un gestionnaire de versions décentralisé.* [Source Wikipédia](https://fr.wikipedia.org/wiki/Git)
+
 - [Manual](https://git-scm.com/doc)
 - [Livre Pro-Git](https://git-scm.com/book)
 - [Git Gitlab doc](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
@@ -27,9 +29,9 @@ Un dépôt **git** doit contenir 3 fichiers :
 
 ## Configurer git
 
-`git config --global user.name "username"`
+`git config --global user.name "nom_prenom"`
 
-`git config --global user.email "your_email_address@example.com"`
+`git config --global user.email "une_adresse_email"`
 
 ## Créer un nouveau dépôt en ligne de commande
 
