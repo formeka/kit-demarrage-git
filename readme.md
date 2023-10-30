@@ -67,6 +67,7 @@ git push -u origin main
 - [Conventional commits format](https://www.conventionalcommits.org)
 - [Git : pourquoi écrire des commits atomiques ?](https://www.codeheroes.fr/2021/10/25/git-pourquoi-ecrire-des-commits-atomiques/)
 - [Qu'est ce qu'un bon commit ?](https://jbuget.fr/posts/qu-est-ce-qu-un-bon-commit-git/)
+- [Comment travailler en équipe avec Git et GitHub ? ](https://blog.code-jobs.io/comment-travailler-equipe-avec-git-github/)
 
 ## Méthode de travail avec git
 
