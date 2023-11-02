@@ -76,6 +76,7 @@ git push -u origin main
 - [Développement basé sur le tronc ](https://www.atlassian.com/fr/continuous-delivery/continuous-integration/trunk-based-development)
 - [About collaborative development models](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models)
 - [Github flow](https://docs.github.com/fr/get-started/quickstart/github-flow)
+- [How to Use Git and GitHub in a Team](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/)
 
 ## Articles relatifs à git
 
